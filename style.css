@@ -104,7 +104,7 @@ body {
 
 .dispositivo__titulo{ 
       font-size: 32px;
-      colot: var (_--branco-principal);
+      color: var (--branco-principal);
 }
 
 .rodape {
